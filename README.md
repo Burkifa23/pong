@@ -4,6 +4,7 @@ An Implementation of Pong In different Languages, game Engines and for different
 - [ ] Godot 
 - [ ] Python with Pygame
 
+
 - [ ] JavaScript 
 
 - [ ] Lua with LÖVE
@@ -14,6 +15,7 @@ An Implementation of Pong In different Languages, game Engines and for different
 
 - [ ] Java with LibGDX
 - [ ] Java With Swing
+- [ ] Java with JavaFx
 
 ### Kotlin 
 - [ ] Kotlin with KorGe
@@ -28,7 +30,9 @@ An Implementation of Pong In different Languages, game Engines and for different
 ### C++
 - [ ] C++ with SFML
 - [ ] C++ with Unreal Engine
-- [ ] C++ with Unreal Engine
+- [ ] C++ with Raylib
+
+- [ ] C with Raylib 
 
 - [ ] Rust with Bevy
 
