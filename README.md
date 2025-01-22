@@ -1,6 +1,11 @@
 # Game Develoopment in Pong
 An Implementation of Pong In different Languages, game Engines and for different Platforms.
 
+Goals
+- [ ] Multiplayer, Human VS Human
+- [ ] Game AI, Human VS computer 
+
+
 - [ ] Godot 
 - [ ] Python with Pygame
 
