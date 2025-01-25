@@ -6,8 +6,13 @@ Goals
 - [ ] Game AI, Human VS computer 
 
 
+
+
+
+
 - [ ] Godot 
 - [ ] Python with Pygame
+- [ ] Python with Ursina 3D
 
 
 - [ ] JavaScript 
