@@ -52,7 +52,7 @@ Goals
 - [ ] Haskell with LambdaCube 3D
 
 ### SDL
-- [ ] C with SDL
+- [ ] C with SDL3
 
 
 ### OpenGL
