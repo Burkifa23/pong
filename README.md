@@ -1,5 +1,6 @@
 # Game Develoopment in Pong
 An Implementation of Pong In different Languages, game Engines and for different Platforms.
+Main Development will be on the  @programmer-233 account.(My Education GitHub Account)
 
 Goals
 - [ ] Multiplayer (Human VS Human)
